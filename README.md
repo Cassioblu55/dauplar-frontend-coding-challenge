@@ -1,4 +1,6 @@
-# Dauplar Frontend Coding Challenge
+# Simple Page Application
+
+_Updated Monday July 12th 2021 by [cassioblu55](https://github.com/cassioblu55)_
 
 _responding to [this](https://github.com/Daupler/coding-challenge) assessment_
 
